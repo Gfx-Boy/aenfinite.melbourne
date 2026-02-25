@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Complete Design & Development Portfolio | All Work | Aenfinite",
   description: "Explore Aenfinite",
   keywords: "portfolio, design portfolio, web design portfolio, branding portfolio, case studies, client work, creative projects, Aenfinite portfolio",
-  alternates: { canonical: "https://aenfinite.melbourne/work/", languages: {"x-default":"https://aenfinite.melbourne/work/","en":"https://aenfinite.melbourne/work/","es":"https://aenfinite.melbourne/es/work/","fr":"https://aenfinite.melbourne/fr/work/","de":"https://aenfinite.melbourne/de/work/","it":"https://aenfinite.melbourne/it/work/","ar":"https://aenfinite.melbourne/ar/work/","pt":"https://aenfinite.melbourne/pt/work/","zh":"https://aenfinite.melbourne/zh/work/","hi":"https://aenfinite.melbourne/hi/work/","nl":"https://aenfinite.melbourne/nl/work/","ja":"https://aenfinite.melbourne/ja/work/","ko":"https://aenfinite.melbourne/ko/work/"} },
+  alternates: { canonical: "https://aenfinite.melbourne/work/", languages: {"x-default":"https://aenfinite.melbourne/work/","en":"https://aenfinite.melbourne/work/"} },
   openGraph: {"title":"Complete Design & Development Portfolio | All Work | Aenfinite","description":"Explore Aenfinite","url":"https://aenfinite.melbourne/work/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/images/portfolio-hero.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Complete Design & Development Portfolio | All Work | Aenfinite","description":"Explore Aenfinite","images":["https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/images/portfolio-hero.jpg"]},
   robots: { index: true, follow: true },

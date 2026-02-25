@@ -1,12 +1,12 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Top Design & Branding Agency in Melbourne | Web, App & Packaging Design | Aenfinite",
-  description: "Aenfinite is a full-service digital agency in Melbourne specializing in website design, branding, packaging, UI/UX, and app development. Since 2017, weâ€™ve helped startups and enterprises elevate their digital presence with design and innovation.",
+  description: "Aenfinite is a full-service digital agency in Melbourne specializing in website design, branding, packaging, UI/UX, and app development. Since 2017, we’ve helped startups and enterprises elevate their digital presence with design and innovation.",
   keywords: "design agency Melbourne, branding agency, web design agency, app development agency, packaging design agency, digital agency, Aenfinite about",
-  alternates: { canonical: "https://aenfinite.melbourne/agency/", languages: {"x-default":"https://aenfinite.melbourne/agency/","en":"https://aenfinite.melbourne/agency/","es":"https://aenfinite.melbourne/es/agency/","fr":"https://aenfinite.melbourne/fr/agency/","de":"https://aenfinite.melbourne/de/agency/","it":"https://aenfinite.melbourne/it/agency/","ar":"https://aenfinite.melbourne/ar/agency/","pt":"https://aenfinite.melbourne/pt/agency/","zh":"https://aenfinite.melbourne/zh/agency/","hi":"https://aenfinite.melbourne/hi/agency/","nl":"https://aenfinite.melbourne/nl/agency/","ja":"https://aenfinite.melbourne/ja/agency/","ko":"https://aenfinite.melbourne/ko/agency/"} },
-  openGraph: {"title":"Top Design & Branding Agency in Melbourne | Aenfinite","description":"Aenfinite helps businesses grow through creative branding, website design, packaging, and app development â€” based in Melbourne, serving clients worldwide.","url":"https://aenfinite.melbourne/agency/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/images/thumbnail.jpg"}]},
+  alternates: { canonical: "https://aenfinite.melbourne/agency/", languages: {"x-default":"https://aenfinite.melbourne/agency/","en":"https://aenfinite.melbourne/agency/"} },
+  openGraph: {"title":"Top Design & Branding Agency in Melbourne | Aenfinite","description":"Aenfinite helps businesses grow through creative branding, website design, packaging, and app development — based in Melbourne, serving clients worldwide.","url":"https://aenfinite.melbourne/agency/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/images/thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Creative Design & Branding Agency in Melbourne | Aenfinite","description":"Aenfinite is a creative agency offering web design, branding, app development, and packaging solutions for businesses and startups.","images":["https://aenfinite.melbourne/wp-content/uploads/2022/10/Untitled-1-2-768x403.jpg"]},
   robots: { index: true, follow: true },
 };
@@ -2496,7 +2496,7 @@ Our white-label services enable agencies and consultants to expand their offerin
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
 							</div>
-						</div>						<meta name="description" content="Professional branding services by AenfiniteÂ®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
+						</div>						<meta name="description" content="Professional branding services by Aenfinite®. Logo design, brand identity, brand strategy, and visual guidelines. Create a memorable brand that resonates with your audience."/>
 						<link rel="canonical" href="https://aenfinite.melbourne/services/branding/" />
 						<div class="menu-nav">
 							<ul id="menu-footer-company-menu-1" class="menuss"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="/featured-work/">Work</a></li>

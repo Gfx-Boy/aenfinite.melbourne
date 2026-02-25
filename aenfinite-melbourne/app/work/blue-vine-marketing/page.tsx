@@ -1,11 +1,11 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Blue Vine Marketing - Digital Marketing Agency & Growth Solutions | Aenfinite",
   description: "Results-driven digital marketing agency platform featuring social media management, SEO, Google Ads, and lead generation solutions with comprehensive growth strategies designed by Aenfinite",
   keywords: "Blue Vine Marketing, digital marketing agency website, lead generation, social media management, Aenfinite project",
-  alternates: { canonical: "https://aenfinite.melbourne/work/blue-vine-marketing/", languages: {"x-default":"https://aenfinite.melbourne/work/blue-vine-marketing/","en":"https://aenfinite.melbourne/work/blue-vine-marketing/","es":"https://aenfinite.melbourne/es/work/blue-vine-marketing/","fr":"https://aenfinite.melbourne/fr/work/blue-vine-marketing/","de":"https://aenfinite.melbourne/de/work/blue-vine-marketing/","it":"https://aenfinite.melbourne/it/work/blue-vine-marketing/","ar":"https://aenfinite.melbourne/ar/work/blue-vine-marketing/","pt":"https://aenfinite.melbourne/pt/work/blue-vine-marketing/","zh":"https://aenfinite.melbourne/zh/work/blue-vine-marketing/","hi":"https://aenfinite.melbourne/hi/work/blue-vine-marketing/","nl":"https://aenfinite.melbourne/nl/work/blue-vine-marketing/","ja":"https://aenfinite.melbourne/ja/work/blue-vine-marketing/","ko":"https://aenfinite.melbourne/ko/work/blue-vine-marketing/"} },
+  alternates: { canonical: "https://aenfinite.melbourne/work/blue-vine-marketing/", languages: {"x-default":"https://aenfinite.melbourne/work/blue-vine-marketing/","en":"https://aenfinite.melbourne/work/blue-vine-marketing/"} },
   openGraph: {"title":"Blue Vine Marketing - Digital Marketing Agency & Growth Solutions | Aenfinite","description":"Results-driven digital marketing agency platform featuring social media management, SEO, Google Ads, and lead generation solutions with comprehensive growth strategies designed by Aenfinite","url":"https://aenfinite.melbourne/work/blue-vine-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/processed/blue-vine-marketingthumbnail.avif"}]},
   twitter: {"card":"summary_large_image","title":"Blue Vine Marketing - Digital Marketing Agency & Growth Solutions | Aenfinite","description":"Results-driven digital marketing agency platform featuring social media management, SEO, Google Ads, and lead generation solutions with comprehensive growth strategies designed by Aenfinite","images":["https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/processed/blue-vine-marketingthumbnail.avif"]},
   robots: { index: true, follow: true },
@@ -2459,7 +2459,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.melbourne/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/digitaldesignny",
@@ -2472,8 +2472,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.melbourne/#website",
       "url": "https://aenfinite.melbourne",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Branding & Web Design Division",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Branding & Web Design Division",
       "publisher": { "@id": "https://aenfinite.melbourne/#organization" },
       "inLanguage": "en-US"
     },
