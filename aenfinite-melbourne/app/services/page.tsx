@@ -2073,10 +2073,10 @@ export default function Page() {
       "url": "https://aenfinite.melbourne",
       "logo": "https://aenfinite.melbourne/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",
@@ -2150,7 +2150,7 @@ export default function Page() {
   "url": "https://aenfinite.melbourne",
   "logo": "https://aenfinite.melbourne/wp-content/uploads/2024/11/share-image-dd.jpg",
   "image": "https://aenfinite.melbourne/wp-content/uploads/2024/11/share-image-dd.jpg",
-  "telephone": "+1-555-AENFINITE",
+  "telephone": "+1-303-419-9782",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "120 Collins Street, Melbourne, VIC 3000",
@@ -2186,10 +2186,10 @@ export default function Page() {
     ]
   },
   "sameAs": [
-    "https://www.facebook.com/aenfinite/",
-    "https://twitter.com/aenfinitee",
-    "https://www.instagram.com/aenfinite/"
-  ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
 }` }}
         />
         <script

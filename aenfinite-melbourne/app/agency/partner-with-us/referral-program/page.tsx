@@ -1843,10 +1843,10 @@ export default function Page() {
       "url": "https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/images/logo.png"
     },
     "sameAs": [
-      "https://www.facebook.com/aenfinite/",
-      "https://twitter.com/aenfinitee",
-      "https://www.instagram.com/aenfinite/"
-    ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
   },
   "mainEntity": {
     "@type": "Offer",
