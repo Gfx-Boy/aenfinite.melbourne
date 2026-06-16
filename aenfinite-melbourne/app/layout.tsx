@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'Aenfinite® | Professional Digital Innovation Agency',
     template: '%s | Aenfinite®',
   },
-  description: 'Aenfinite® is a professional digital innovation agency in Melbourne specializing in custom web design, brand identity, UI/UX design, digital marketing, e-commerce development, and comprehensive digital transformation solutions.',
+  description: 'Aenfinite® is a professional digital innovation agency in Melbourne delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding, UI/UX design, and digital transformation solutions.',
   icons: {
     icon: [
       { url: '/wp-content/themes/aenfinite.melbourne/favicon/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
@@ -50,6 +50,12 @@ export default function RootLayout({
   return (
     <html lang="en-AU">
       <head>
+        {/* Local SEO geo signals */}
+        <meta name="geo.region" content="AU-VIC" />
+        <meta name="geo.placename" content="Melbourne" />
+        <meta name="geo.position" content="-37.8136;144.9631" />
+        <meta name="ICBM" content="-37.8136, 144.9631" />
+
         {/* DNS prefetch & preconnect for speed */}
 
         {/* HREFLANG TAGS - Global language alternates */}
