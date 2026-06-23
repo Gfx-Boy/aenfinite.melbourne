@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | Melbourne Digital Innovation Agency | AI, Software Development, Marketing & Design",
-  description: "Aenfinite® is a professional full-service digital innovation agency in Melbourne delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design. Serving businesses across the US and Canada.",
+  title: { absolute: "Aenfinite® | Melbourne Digital Innovation Agency" },
+  description: "Melbourne-based digital innovation agency for AI automation, custom software, web & app development, SEO & branding. Serving the US & Canada.",
   keywords: "digital agency Melbourne, Melbourne web design, Melbourne software development, AI agency Melbourne, Victoria digital agency, digital agency, AI agency, AI automation services, software development agency, SEO agency, web design agency, branding agency, digital marketing agency Melbourne, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.melbourne/", languages: {"x-default":"https://aenfinite.melbourne/","en":"https://aenfinite.melbourne/"} },
   openGraph: {"title":"Aenfinite® | Digital Innovation Agency | AI, Software Development, Marketing & Design","description":"Aenfinite® is a professional full-service digital innovation agency delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design. Serving businesses across the US and Canada.","url":"https://aenfinite.melbourne/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.melbourne/wp-content/themes/aenfinite.melbourne/images/thumbnail.jpg"}]},
